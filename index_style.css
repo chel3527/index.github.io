@@ -1,0 +1,10 @@
+.body {
+    background-image: url("file:///D:/Dowmload/phon.jpg");
+    background-repeat: no-repeat; 
+    background-position: center; 
+    background-size: 100%;
+}
+
+.h1 {
+    text-align: center;
+}
